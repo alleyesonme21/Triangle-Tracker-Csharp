@@ -1,0 +1,10 @@
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.csprojAssemblyReference.cache
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.AssemblyInfoInputs.cache
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.AssemblyInfo.cs
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/bin/Debug/netcoreapp2.2/Triangle.deps.json
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/bin/Debug/netcoreapp2.2/Triangle.dll
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/bin/Debug/netcoreapp2.2/Triangle.pdb
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.dll
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.pdb
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/bin/Debug/netcoreapp2.2/Triangle.runtimeconfig.json
+/Users/alleyesonme/Desktop/Triangle.Solution/Triangle/bin/Debug/netcoreapp2.2/Triangle.runtimeconfig.dev.json
